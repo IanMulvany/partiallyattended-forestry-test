@@ -3,4 +3,11 @@ pages:
 - post/testing-forestry-ui-for-building-my-site.md
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: tag_list
+  default:
+  - hugo
+  - github
+  - ui
+  - forestry
+  - test
